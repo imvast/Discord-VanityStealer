@@ -1,10 +1,10 @@
 <div id="top"></div>
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/imvast/Discord-VanitySniper.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/imvast/Discord-VanitySniper.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/imvast/Discord-VanitySniper.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/imvast/Discord-VanitySniper.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/imvast/Discord-VanitySniper.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/contributors/imvast/Discord-VanityStealer.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/forks/imvast/Discord-VanityStealer.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/imvast/Discord-VanityStealer.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/issues/imvast/Discord-VanityStealer.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/license/imvast/Discord-VanityStealer.svg?style=for-the-badge"/>
 </p>
   
 ---------------------------------------
@@ -12,7 +12,7 @@
 <br/>
 <div align="center">
   <kbd>
-  <a href="https://github.com/imvast/Discord-VanitySniper">
+  <a href="https://github.com/imvast/Discord-VanityStealer">
     <img src="https://i.pinimg.com/736x/f5/9f/1e/f59f1e660b16370adbc1621f7907e382.jpg" alt="Logo" width="300" height="300">
   </a>
   </kbd>
@@ -25,11 +25,11 @@
     <br />
     <a href="https://discord.gg/hbo">🌌 Discord</a>
     ·
-    <a href="https://github.com/imvast/Discord-VanitySniper#-changelog">📜 ChangeLog</a>
+    <a href="https://github.com/imvast/Discord-VanityStealer#-changelog">📜 ChangeLog</a>
     ·
-    <a href="https://github.com/imvast/Discord-VanitySniper/issues">⚠️ Report Bug</a>
+    <a href="https://github.com/imvast/Discord-VanityStealer/issues">⚠️ Report Bug</a>
     ·
-    <a href="https://github.com/imvast/Discord-VanitySniper/issues">💡 Request Feature</a>
+    <a href="https://github.com/imvast/Discord-VanityStealer/issues">💡 Request Feature</a>
   </p>
 </div>
 
@@ -58,7 +58,7 @@
 ### ❗ Disclaimers
 - I am not responsible for anything that may happen, such as, API Blocking, Account Termination, etc.
 - This **may** slow down your wifi and/or host computer
-- This was a quick project that was made for fun, so if you want to see further updates, star the repo & create an "issue" [here](https://github.com/imvast/Discord-VanitySniper/issues/new/choose)
+- This was a quick project that was made for fun, so if you want to see further updates, star the repo & create an "issue" [here](https://github.com/imvast/Discord-VanityStealer/issues/new/choose)
 
 ---------------------------------------
 
